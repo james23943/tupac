@@ -12,7 +12,7 @@ TOKEN = os.getenv('DISCORD_BOT_TOKEN')
 
 # Replace with your server and channel IDs
 GUILD_ID = 913372558693396511
-VOICE_CHANNEL_ID = 994447006741299280
+VOICE_CHANNEL_ID = 1306818664313393253
 
 # List of song URLs or file paths
 SONG_LIST = [
